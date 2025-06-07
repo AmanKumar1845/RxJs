@@ -1,0 +1,39 @@
+{
+  "Blogs": [
+    {
+      "id": "1",
+      "title": "Angular",
+      "description": "Angular is a OpenSource powered by Google"
+    },
+    {
+      "id": "2",
+      "title": "React",
+      "description": "React is a OpenSource powered by Meta"
+    },
+    {
+      "id": "3",
+      "title": ".NET",
+      "description": ".NET is a OpenSource powered by Microsoft"
+    },
+    {
+      "id": "4",
+      "title": "Google",
+      "description": "Google founded in the year 1998, Parent organization - Alphabet Inc"
+    },
+    {
+      "id": "5",
+      "title": "Microsoft",
+      "description": "Microsoft founded in the year 1997, by Bill Gates and Paul Allen"
+    },
+    {
+      "id": "a8d1",
+      "title": "Google ",
+      "description": "CEO of Google is Sundar Pichai"
+    },
+    {
+      "id": "cc6e",
+      "title": "SpaceX",
+      "description": "SpaceX is founded in the Year 2010, founder is Elon Musk"
+    }
+  ]
+}
